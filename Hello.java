@@ -4,6 +4,6 @@ public class Hello
 
 		System.out.pritnln("hello");
 	    System.out.pritnln("hello2");
-		System.out.pritnln("Ò»¼ü½»ÓÑ");
+		System.out.pritnln("ä¸€é”®äº¤å‹");
 	}
 }
